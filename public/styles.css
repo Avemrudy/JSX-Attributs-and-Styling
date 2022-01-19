@@ -1,0 +1,18 @@
+h1 {
+  color: red;
+}
+
+.sandboxCancer,
+.sandBoxMoreLikeTrashBox {
+  width: 350px;
+  height: 350px;
+}
+
+.fuckCodesandbox {
+  width: 300px;
+  height: 300px;
+}
+
+ul {
+  list-style-type: none;
+}
